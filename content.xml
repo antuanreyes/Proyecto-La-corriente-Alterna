@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260526221938KSJJPL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605262219387O43FR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La Corriente Alterna. Conociendo las potencias.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Reyes Gutiérrez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto forma parte de una entrega para el curso de competencia digital docente Nivel B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779815474388</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ff5d4dfe-ec32-4efb-b68f-f12708011fb9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>ff5d4dfe-ec32-4efb-b68f-f12708011fb9</odePageId>
+      <odeBlockId>block-1779815282656-h3bejp8ru</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>ff5d4dfe-ec32-4efb-b68f-f12708011fb9</odePageId>
+          <odeBlockId>block-1779815282656-h3bejp8ru</odeBlockId>
+          <odeIdeviceId>idevice-1779815282653-55tywdom9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La Corriente Alterna no viene sola; trae consigo a "tres compañeros de viaje" que debemos aprender a dominar: las resistencias, las bobinas y los condensadores. Con esta práctica vamos a descubrir por qué la tensión y la corriente viajan en sincronía (desfase) y cómo la energía se transforma no solo en calor (Potencia Activa), sino también en campos magnéticos y eléctricos (Potencia Reactiva) que van y vienen por la red. A través de la simulación, visualizaremos lo invisible: entenderemos cómo la frecuencia altera el comportamiento de los componentes y aprenderemos a calcular el Triángulo de Potencias, una herramienta fundamental para que cualquier instalación de telecomunicaciones sea eficiente y segura. </p>
+<p style="text-align: justify;">Esta actividad está diseñada específicamente para el alumnado de primer curso del Ciclo Formativo de Grado Medio correspondiente al título de Técnico en Instalaciones de Telecomunicaciones. Al encontrarse en el primer año de su formación, los estudiantes están asentando las bases de la electricidad y la electrónica, por lo que esta práctica resulta idónea para consolidar conceptos abstractos que verán aplicados a lo largo de todo el ciclo.</p>
+<p style="text-align: justify;">La práctica está planificada para desarrollarse en un total de ocho horas lectivas, las cuales se distribuyen en tres fases diferenciadas para garantizar la asimilación progresiva de los contenidos. La primera hora se dedicará a una introducción sobre el resultado final que deben generar, poniendo énfasis sobre la herramienta de trabajo Google Docs. La segunda hora se dedicará a una introducción conceptual y de repaso sobre el comportamiento de los componentes en corriente alterna y la naturaleza de las potencias, además se introducirá el simulador que emplearán para generar los diferentes circuitos. Posteriormente, se destinarán cinco horas completas al trabajo en el aula técnica utilizando el software de simulación electrónica, donde los alumnos montarán los circuitos, visualizarán las ondas y realizarán los cálculos del Triángulo de Potencias y analizarán los resultados obtenidos. La última hora lectiva se reservará para elaborar las conclusiones del informe técnico y dudas de última hora.</p>
+<p style="text-align: justify;">El núcleo de la práctica se engloba dentro del módulo profesional de Electrónica Aplicada, que es donde se estudian los fundamentos de los circuitos en corriente alterna. No obstante, la actividad guarda una estrecha relación transversal con otros módulos del ciclo; por un lado, se vincula con Infraestructuras Comunes de Telecomunicación, ya que entender el comportamiento de la frecuencia y la eficiencia es vital para el despliegue de redes de televisión y datos; por otro lado, conecta con el módulo de Equipos de Microinformática a través del uso de herramientas digitales de simulación y software ofimático para la redacción de informes técnicos.</p>
+<p style="text-align: justify;">La práctica se desarrollará principalmente en castellano. Además, de forma complementaria, se trabajará de manera bilingüe la terminología técnica en inglés, ya que el software de simulación, las hojas de características de los componentes y los manuales del sector de las telecomunicaciones emplean habitualmente este idioma.</p>
+<p style="text-align: justify;">El objetivo principal de esta práctica es lograr que el alumnado traduzca la teoría matemática de la corriente alterna en un aprendizaje visual, práctico y directamente aplicable a su futuro entorno laboral. A lo largo de la actividad, los estudiantes trabajarán de forma activa en la identificación del comportamiento real de las resistencias, bobinas y condensadores, aprendiendo a interpretar cómo la frecuencia altera la oposición al paso de la corriente en cada uno de ellos.</p>
+<p style="text-align: justify;">A través del uso del osciloscopio virtual en el simulador, el alumnado aprenderá a medir y visualizar el desfase entre la tensión y la intensidad, un concepto clave para comprender cómo se desplaza la energía por las líneas de telecomunicaciones. Asimismo, los estudiantes se capacitarán en el cálculo y la representación gráfica del Triángulo de Potencias, lo que les permitirá evaluar el factor de potencia y comprender la importancia de la eficiencia energética para evitar caídas de tensión, pérdidas de señal o sobrecalentamientos peligrosos en las instalaciones. Por último, la práctica fomenta la competencia digital mediante el manejo de herramientas de simulación profesional, permitiendo al alumno experimentar de forma segura y desarrollar un pensamiento crítico para el diagnóstico de anomalías en circuitos eléctricos.</p>
+<p style="text-align: justify;">La elección de los diferentes elementos anteriores se justifica porque realmente creo que la forma de afrontar esta práctica en el pasado no fue la mejor, sobre todo en el apartado de temporalización y posiblemente en el apartado de presentación del informe de práctica y descripción de los diferentes pasos a dar. No me gustaría ser muy descriptivo o detallado porque quiero que sean ellos los que trabajen y no dejar todo resuelto, pero me gustaría trabajar sobre como temporizar las entregas y que termine siendo la misma entrega final. Pienso que muchos de los problemas descritos en la rutina de pensamiento pasan por exigir una entrega en cada sesión, para no dejar que ellos se planifiquen toda la práctica. Y luego, en cada sesión, conseguir que todos tengan las herramientas suficientes para realizar la práctica, pero sin convertirlo en una guía paso a paso con la que no van a esforzarse.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779815282653-55tywdom9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La Corriente Alterna no viene sola; trae consigo a \"tres compañeros de viaje\" que debemos aprender a dominar: las resistencias, las bobinas y los condensadores. Con esta práctica vamos a descubrir por qué la tensión y la corriente viajan en sincronía (desfase) y cómo la energía se transforma no solo en calor (Potencia Activa), sino también en campos magnéticos y eléctricos (Potencia Reactiva) que van y vienen por la red. A través de la simulación, visualizaremos lo invisible: entenderemos cómo la frecuencia altera el comportamiento de los componentes y aprenderemos a calcular el Triángulo de Potencias, una herramienta fundamental para que cualquier instalación de telecomunicaciones sea eficiente y segura. </p>\n<p style=\"text-align: justify;\">Esta actividad está diseñada específicamente para el alumnado de primer curso del Ciclo Formativo de Grado Medio correspondiente al título de Técnico en Instalaciones de Telecomunicaciones. Al encontrarse en el primer año de su formación, los estudiantes están asentando las bases de la electricidad y la electrónica, por lo que esta práctica resulta idónea para consolidar conceptos abstractos que verán aplicados a lo largo de todo el ciclo.</p>\n<p style=\"text-align: justify;\">La práctica está planificada para desarrollarse en un total de ocho horas lectivas, las cuales se distribuyen en tres fases diferenciadas para garantizar la asimilación progresiva de los contenidos. La primera hora se dedicará a una introducción sobre el resultado final que deben generar, poniendo énfasis sobre la herramienta de trabajo Google Docs. La segunda hora se dedicará a una introducción conceptual y de repaso sobre el comportamiento de los componentes en corriente alterna y la naturaleza de las potencias, además se introducirá el simulador que emplearán para generar los diferentes circuitos. Posteriormente, se destinarán cinco horas completas al trabajo en el aula técnica utilizando el software de simulación electrónica, donde los alumnos montarán los circuitos, visualizarán las ondas y realizarán los cálculos del Triángulo de Potencias y analizarán los resultados obtenidos. La última hora lectiva se reservará para elaborar las conclusiones del informe técnico y dudas de última hora.</p>\n<p style=\"text-align: justify;\">El núcleo de la práctica se engloba dentro del módulo profesional de Electrónica Aplicada, que es donde se estudian los fundamentos de los circuitos en corriente alterna. No obstante, la actividad guarda una estrecha relación transversal con otros módulos del ciclo; por un lado, se vincula con Infraestructuras Comunes de Telecomunicación, ya que entender el comportamiento de la frecuencia y la eficiencia es vital para el despliegue de redes de televisión y datos; por otro lado, conecta con el módulo de Equipos de Microinformática a través del uso de herramientas digitales de simulación y software ofimático para la redacción de informes técnicos.</p>\n<p style=\"text-align: justify;\">La práctica se desarrollará principalmente en castellano. Además, de forma complementaria, se trabajará de manera bilingüe la terminología técnica en inglés, ya que el software de simulación, las hojas de características de los componentes y los manuales del sector de las telecomunicaciones emplean habitualmente este idioma.</p>\n<p style=\"text-align: justify;\">El objetivo principal de esta práctica es lograr que el alumnado traduzca la teoría matemática de la corriente alterna en un aprendizaje visual, práctico y directamente aplicable a su futuro entorno laboral. A lo largo de la actividad, los estudiantes trabajarán de forma activa en la identificación del comportamiento real de las resistencias, bobinas y condensadores, aprendiendo a interpretar cómo la frecuencia altera la oposición al paso de la corriente en cada uno de ellos.</p>\n<p style=\"text-align: justify;\">A través del uso del osciloscopio virtual en el simulador, el alumnado aprenderá a medir y visualizar el desfase entre la tensión y la intensidad, un concepto clave para comprender cómo se desplaza la energía por las líneas de telecomunicaciones. Asimismo, los estudiantes se capacitarán en el cálculo y la representación gráfica del Triángulo de Potencias, lo que les permitirá evaluar el factor de potencia y comprender la importancia de la eficiencia energética para evitar caídas de tensión, pérdidas de señal o sobrecalentamientos peligrosos en las instalaciones. Por último, la práctica fomenta la competencia digital mediante el manejo de herramientas de simulación profesional, permitiendo al alumno experimentar de forma segura y desarrollar un pensamiento crítico para el diagnóstico de anomalías en circuitos eléctricos.</p>\n<p style=\"text-align: justify;\">La elección de los diferentes elementos anteriores se justifica porque realmente creo que la forma de afrontar esta práctica en el pasado no fue la mejor, sobre todo en el apartado de temporalización y posiblemente en el apartado de presentación del informe de práctica y descripción de los diferentes pasos a dar. No me gustaría ser muy descriptivo o detallado porque quiero que sean ellos los que trabajen y no dejar todo resuelto, pero me gustaría trabajar sobre como temporizar las entregas y que termine siendo la misma entrega final. Pienso que muchos de los problemas descritos en la rutina de pensamiento pasan por exigir una entrega en cada sesión, para no dejar que ellos se planifiquen toda la práctica. Y luego, en cada sesión, conseguir que todos tengan las herramientas suficientes para realizar la práctica, pero sin convertirlo en una guía paso a paso con la que no van a esforzarse.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779820684669-mw0npff6z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779820684669-mw0npff6z</odePageId>
+      <odeBlockId>block-1779820706728-nmfz07ukh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779820684669-mw0npff6z</odePageId>
+          <odeBlockId>block-1779820706728-nmfz07ukh</odeBlockId>
+          <odeIdeviceId>idevice-1779820706727-7mvvm6o0v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 0 auto; padding: 25px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fdfdfd;">
+<h3 style="color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;">1. Introducción y Contextualización</h3>
+<p style="text-align: justify;">Este Recurso Educativo Abierto (REA) está integrado en el módulo profesional de <strong>Electrónica Aplicada</strong>, catalogado como un módulo soporte transversal fundamental para el <strong>C.F.G.M. en Instalaciones de Telecomunicaciones</strong>. La unidad se encuadra normativamente dentro del Real Decreto 1632/2009 y la Orden de 19 de julio de 2010 que desarrolla el currículo en la Comunidad Autónoma de Andalucía.</p>
+<p style="text-align: justify;"><strong>Público objetivo:</strong> Alumnado de primer curso. Al hallarse en los bloques iniciales de su formación técnica, requiere de prácticas de taller guiadas y simulaciones que asienten conceptos matemáticos y magnitudes abstractas (como el desfase o la potencia reactiva), que serán la base para módulos posteriores de segundo año.</p>
+<h3 style="color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;">2. Vinculación Curricular (LOMLOE / Decreto 147/2025)</h3>
+<p style="margin-bottom: 10px;">La realización de este proyecto contribuye directamente al desarrollo de las siguientes competencias y bloques formativos:</p>
+<ul>
+<li><strong>Competencia Profesional Asociada:</strong> Resolver problemas y tomar decisiones individuales siguiendo las normas y procedimientos establecidos, calculando los parámetros de equipos, elementos e instalaciones.</li>
+<li><strong>Objetivos Generales del Ciclo:</strong>
+<ul>
+<li><em>c)</em> Obtener los parámetros típicos de las instalaciones y equipos, aplicando procedimientos de cálculo y atendiendo a las especificaciones reglamentarias.</li>
+<li><em>o)</em> Comprobar el conexionado, señales y parámetros característicos utilizando la instrumentación y protocolos establecidos en condiciones de calidad y seguridad.</li>
+</ul>
+</li>
+<li><strong>Resultado de Aprendizaje (RA):</strong>
+<ul>
+<li><strong>RA 3:</strong> Realiza cálculos y medidas en circuitos eléctricos de corriente alterna monofásica y trifásica, aplicando principios y conceptos básicos.</li>
+</ul>
+</li>
+</ul>
+<h3 style="color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;">3. Relación de Tareas del Proyecto y Criterios de Evaluación</h3>
+<p style="text-align: justify; margin-bottom: 15px;">A continuación, se detalla la matriz que vincula las actividades procedimentales diseñadas en este eXeLearning con los Criterios de Evaluación (CE) oficiales exigidos para el RA 3. Esta distribución balancea el trabajo analítico y la simulación por software:</p>
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px; font-size: 14px;">
+<thead>
+<tr style="background-color: #0056b3; color: white; text-align: left;">
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr style="background-color: #0056b3; color: white;">
+<th style="padding: 10px; border: 1px solid #ddd; width: 35%; font-weight: bold;">Bloque de Tareas / Actividades</th>
+<th style="padding: 10px; border: 1px solid #ddd; width: 45%; font-weight: bold;">Criterios de Evaluación Asociados (RA 3)</th>
+<th style="padding: 10px; border: 1px solid #ddd; width: 20%; font-weight: bold; text-align: center;">Instrumento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;"><strong>Tarea Inicial.</strong> Conociendo Google Docs, repasando conceptos y conociendo la herramienta de simulación falstad.<br /></td>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;"><strong>CE a)</strong> Se han identificado las características de una señal alterna.<br />
+<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">Registro Anecdótico</td>
+</tr>
+<tr style="background-color: #f9f9f9;">
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;"><strong>Tarea 1. </strong>Circuito con fuente de alimentación (230 Veficaz y 50 Hz) y resistencia. </td>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+<p><strong>CE a)</strong> Se han identificado las características de una señal alterna. </p>
+<p><strong>CE d)</strong> Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;"><strong>Tarea 2. </strong>Circuito con fuente de alimentación, resistencia y bobina.</td>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p><strong>CE d)</strong> Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+<tr style="background-color: #f9f9f9;">
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;"><strong>Tarea 3.</strong> Circuito con fuente de alimentación, resistencia, bobina y condensador.</td>
+<td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;"><strong>Tarea 4. </strong>Circuito con fuente de alimentación, resistencia, bobina y condensador (en serie) en resonancia.</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;">
+<p><strong>CE c) </strong>Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica.</p>
+<p><strong> CE f) </strong>Se ha descrito el concepto de resonancia y sus aplicaciones. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;"><strong>Tarea 5.</strong> Con los elementos del apartado anterior genera filtro de paso bajo y mostrar su funcionamiento. </td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;">
+<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p><strong>CE c)</strong> Se han identificado los componentes, asociándolos con sus símbolos. </p>
+<p><strong>CE d)</strong> Se han montado o simulado circuitos analógicos básicos. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;">
+<p><strong>Tarea Final.</strong> Genera el informe final del proyecto y una infografía de los pasos que has ido dando, mostrando las fórmulas empleadas.</p>
+<p><br /></p>
+</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top;">
+<p><strong>CE a)</strong> Se han identificado las características de una señal alterna. </p>
+<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+<td style="padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;">Registro Anecdótico / Rúbrica</td>
+</tr>
+</tbody>
+</table>
+<h3 style="color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;">4. Orientaciones Pedagógicas y Estrategias Metodológicas</h3>
+<p style="text-align: justify;">Siguiendo los principios fundamentales del módulo, las sesiones deben estructurarse equilibrando el binomio conocimiento/aplicación. Una continua manipulación de materiales sin el andamiaje teórico matemático previo carece de validez formativa; del mismo modo, un enfoque puramente académico resultaría ineficaz para este perfil de alumnado.</p>
+<p style="margin-bottom: 5px; text-align: justify;">Por ello, este proyecto se plantea estratégicamente una vez que todos los contenidos teóricos han sido adelantados y se han resuelto los ejercicios analíticos en la pizarra. Al proponerse como una actividad de repaso y aplicación práctica previa a la evaluación final, los estudiantes logran asentar de forma sólida los conocimientos adquiridos. Pasar de las fórmulas en el papel a la visualización real de los desfases y las potencias en los equipos del taller permite que el alumnado interiorice los conceptos abstractos de manera significativa, transformando la teoría en una competencia técnica real y aumentando notablemente sus garantías de éxito de cara a la realización de la prueba teórica.</p>
+<h3 style="color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;">5. Temporalización y Recomendaciones para el Aula</h3>
+<p style="text-align: justify;"><strong>Temporalización estimada:</strong> Este proyecto comprende conceptualmente las Unidad de Trabajo 5, se recomienda una dedicación aproximada de 8 horas lectivas durante el segundo trimestre del curso escolar.</p>
+<p style="text-align: justify;"><strong>Atención a la diversidad (NEAE):</strong> De acuerdo con el marco normativo andaluz, para aquel alumnado que presente ritmos de aprendizaje heterogéneos o necesidades específicas de soporte educativo, se aconseja priorizar las actividades guiadas en el software de simulación mediante plantillas de pasos correlativos, posibilitando la ampliación de tiempos en las pruebas escritas sin que esto suponga una alteración de los resultados mínimos de aprendizaje exigibles en el título.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779820706727-7mvvm6o0v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 0 auto; padding: 25px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fdfdfd;\">\n<h3 style=\"color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;\">1. Introducción y Contextualización</h3>\n<p style=\"text-align: justify;\">Este Recurso Educativo Abierto (REA) está integrado en el módulo profesional de <strong>Electrónica Aplicada</strong>, catalogado como un módulo soporte transversal fundamental para el <strong>C.F.G.M. en Instalaciones de Telecomunicaciones</strong>. La unidad se encuadra normativamente dentro del Real Decreto 1632/2009 y la Orden de 19 de julio de 2010 que desarrolla el currículo en la Comunidad Autónoma de Andalucía.</p>\n<p style=\"text-align: justify;\"><strong>Público objetivo:</strong> Alumnado de primer curso. Al hallarse en los bloques iniciales de su formación técnica, requiere de prácticas de taller guiadas y simulaciones que asienten conceptos matemáticos y magnitudes abstractas (como el desfase o la potencia reactiva), que serán la base para módulos posteriores de segundo año.</p>\n<h3 style=\"color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;\">2. Vinculación Curricular (LOMLOE / Decreto 147/2025)</h3>\n<p style=\"margin-bottom: 10px;\">La realización de este proyecto contribuye directamente al desarrollo de las siguientes competencias y bloques formativos:</p>\n<ul>\n<li><strong>Competencia Profesional Asociada:</strong> Resolver problemas y tomar decisiones individuales siguiendo las normas y procedimientos establecidos, calculando los parámetros de equipos, elementos e instalaciones.</li>\n<li><strong>Objetivos Generales del Ciclo:</strong>\n<ul>\n<li><em>c)</em> Obtener los parámetros típicos de las instalaciones y equipos, aplicando procedimientos de cálculo y atendiendo a las especificaciones reglamentarias.</li>\n<li><em>o)</em> Comprobar el conexionado, señales y parámetros característicos utilizando la instrumentación y protocolos establecidos en condiciones de calidad y seguridad.</li>\n</ul>\n</li>\n<li><strong>Resultado de Aprendizaje (RA):</strong>\n<ul>\n<li><strong>RA 3:</strong> Realiza cálculos y medidas en circuitos eléctricos de corriente alterna monofásica y trifásica, aplicando principios y conceptos básicos.</li>\n</ul>\n</li>\n</ul>\n<h3 style=\"color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;\">3. Relación de Tareas del Proyecto y Criterios de Evaluación</h3>\n<p style=\"text-align: justify; margin-bottom: 15px;\">A continuación, se detalla la matriz que vincula las actividades procedimentales diseñadas en este eXeLearning con los Criterios de Evaluación (CE) oficiales exigidos para el RA 3. Esta distribución balancea el trabajo analítico y la simulación por software:</p>\n<table style=\"width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px; font-size: 14px;\">\n<thead>\n<tr style=\"background-color: #0056b3; color: white; text-align: left;\">\n<td><br /></td>\n<td><br /></td>\n<td><br /></td>\n</tr>\n<tr style=\"background-color: #0056b3; color: white;\">\n<th style=\"padding: 10px; border: 1px solid #ddd; width: 35%; font-weight: bold;\">Bloque de Tareas / Actividades</th>\n<th style=\"padding: 10px; border: 1px solid #ddd; width: 45%; font-weight: bold;\">Criterios de Evaluación Asociados (RA 3)</th>\n<th style=\"padding: 10px; border: 1px solid #ddd; width: 20%; font-weight: bold; text-align: center;\">Instrumento</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\"><strong>Tarea Inicial.</strong> Conociendo Google Docs, repasando conceptos y conociendo la herramienta de simulación falstad.<br /></td>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\"><strong>CE a)</strong> Se han identificado las características de una señal alterna.<br />\n<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;\">Registro Anecdótico</td>\n</tr>\n<tr style=\"background-color: #f9f9f9;\">\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\"><strong>Tarea 1. </strong>Circuito con fuente de alimentación (230 Veficaz y 50 Hz) y resistencia. </td>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\">\n<p><strong>CE a)</strong> Se han identificado las características de una señal alterna. </p>\n<p><strong>CE d)</strong> Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\"><strong>Tarea 2. </strong>Circuito con fuente de alimentación, resistencia y bobina.</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\">\n<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p><strong>CE d)</strong> Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n<tr style=\"background-color: #f9f9f9;\">\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\"><strong>Tarea 3.</strong> Circuito con fuente de alimentación, resistencia, bobina y condensador.</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; vertical-align: top;\">\n<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\"><strong>Tarea 4. </strong>Circuito con fuente de alimentación, resistencia, bobina y condensador (en serie) en resonancia.</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\">\n<p><strong>CE c) </strong>Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica.</p>\n<p><strong> CE f) </strong>Se ha descrito el concepto de resonancia y sus aplicaciones. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\"><strong>Tarea 5.</strong> Con los elementos del apartado anterior genera filtro de paso bajo y mostrar su funcionamiento. </td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\">\n<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p><strong>CE c)</strong> Se han identificado los componentes, asociándolos con sus símbolos. </p>\n<p><strong>CE d)</strong> Se han montado o simulado circuitos analógicos básicos. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\">\n<p><strong>Tarea Final.</strong> Genera el informe final del proyecto y una infografía de los pasos que has ido dando, mostrando las fórmulas empleadas.</p>\n<p><br /></p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top;\">\n<p><strong>CE a)</strong> Se han identificado las características de una señal alterna. </p>\n<p><strong>CE c)</strong> Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p><strong>CE e)</strong> Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; text-align: center; vertical-align: middle;\">Registro Anecdótico / Rúbrica</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;\">4. Orientaciones Pedagógicas y Estrategias Metodológicas</h3>\n<p style=\"text-align: justify;\">Siguiendo los principios fundamentales del módulo, las sesiones deben estructurarse equilibrando el binomio conocimiento/aplicación. Una continua manipulación de materiales sin el andamiaje teórico matemático previo carece de validez formativa; del mismo modo, un enfoque puramente académico resultaría ineficaz para este perfil de alumnado.</p>\n<p style=\"margin-bottom: 5px; text-align: justify;\">Por ello, este proyecto se plantea estratégicamente una vez que todos los contenidos teóricos han sido adelantados y se han resuelto los ejercicios analíticos en la pizarra. Al proponerse como una actividad de repaso y aplicación práctica previa a la evaluación final, los estudiantes logran asentar de forma sólida los conocimientos adquiridos. Pasar de las fórmulas en el papel a la visualización real de los desfases y las potencias en los equipos del taller permite que el alumnado interiorice los conceptos abstractos de manera significativa, transformando la teoría en una competencia técnica real y aumentando notablemente sus garantías de éxito de cara a la realización de la prueba teórica.</p>\n<h3 style=\"color: #2c3e50; border-left: 4px solid #0056b3; padding-left: 10px; margin-top: 25px;\">5. Temporalización y Recomendaciones para el Aula</h3>\n<p style=\"text-align: justify;\"><strong>Temporalización estimada:</strong> Este proyecto comprende conceptualmente las Unidad de Trabajo 5, se recomienda una dedicación aproximada de 8 horas lectivas durante el segundo trimestre del curso escolar.</p>\n<p style=\"text-align: justify;\"><strong>Atención a la diversidad (NEAE):</strong> De acuerdo con el marco normativo andaluz, para aquel alumnado que presente ritmos de aprendizaje heterogéneos o necesidades específicas de soporte educativo, se aconseja priorizar las actividades guiadas en el software de simulación mediante plantillas de pasos correlativos, posibilitando la ampliación de tiempos en las pruebas escritas sin que esto suponga una alteración de los resultados mínimos de aprendizaje exigibles en el título.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779815017856-dxtjgtx4n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía de Derechos y Seguridad Digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía de Derechos y Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía de Derechos y Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía de Derechos y Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779815017856-dxtjgtx4n</odePageId>
+      <odeBlockId>block-1779817572983-8kn6ije3h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779815017856-dxtjgtx4n</odePageId>
+          <odeBlockId>block-1779817572983-8kn6ije3h</odeBlockId>
+          <odeIdeviceId>idevice-1779816100436-zvk8mh47c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><iframe width="630" height="940" src="{{context_path}}/content/resources/Infografia Seguridad.pdf"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779816100436-zvk8mh47c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"630\" height=\"940\" src=\"{{context_path}}/content/resources/Infografia Seguridad.pdf\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779817831462-d0f2uxu2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779817831462-d0f2uxu2o</odePageId>
+      <odeBlockId>block-1779817836105-dicida841</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779817831462-d0f2uxu2o</odePageId>
+          <odeBlockId>block-1779817836105-dicida841</odeBlockId>
+          <odeIdeviceId>idevice-1779817836104-yrkgskpqi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Uno de los objetivos de este proyecto es capacitar al alumnado de Grado Medio en el uso más o menos avanzado de Google Docs, una herramienta clave y colaborativa en el entorno laboral actual. No se busca solo el aprendizaje instrumental del procesador de textos, sino su aplicación práctica para el desarrollo profesional.</p>
+<p style="text-align: justify;">Al finalizar, el alumno será capaz de maquetar y redactar un informe técnico completo, cumpliendo con los estándares de calidad del sector. El documento final deberá integrar de forma autónoma la siguiente estructura formal: Portada, Índice, Introducción, Desarrollo y Conclusiones.</p>
+<p style="text-align: justify;">Aparte de esta herramienta, les voy a pedir el uso de dos herramientas más. En el proyecto los alumnos tendrán que ir generando simulaciones cada vez más complejas, cada nueva simulación depende de la anterior y creo que es una buena opción que generen una infografía que resuma todo el proceso de un vistazo y un videotutorial sobre el empleo de la herramienta de simulación. Emplearán Genially para incluir una infografía en el documento en la que expliquen cuáles han sido los pasos que han ido dando y muestren las fórmulas que han empleado en cada paso. Y, por último, Screencast-o-matic para que realicen un pequeño tutorial de uno de los modelos implementados en el simulador de circuitos electrónicos.</p>
+<p style="text-align: justify;">Aprovechando que los alumnos cuentan con portátiles facilitados por el centro (a través del programa de préstamo de la Junta de Andalucía), considero fundamental que le den un uso profesional. No queremos que usen el ordenador solo para buscar información, sino como una herramienta de trabajo real.<br /></p>
+<p style="text-align: justify;">Las herramientas digitales seleccionadas (Google Docs, Genially y ScreenPal (Screencast-o-Matic) cumplen los criterios de accesibilidad, gratuidad y usabilidad. No requieren instalaciones complejas ni conllevan costes para el alumnado. Su interfaz intuitiva garantiza una curva de aprendizaje rápida, perfectamente asumible para el nivel de FP de Grado Medio. Esto permite que el foco de las sesiones se centre en la adquisición de la competencia profesional y la calidad del contenido, y no en la complejidad técnica del software.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779817836104-yrkgskpqi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Uno de los objetivos de este proyecto es capacitar al alumnado de Grado Medio en el uso más o menos avanzado de Google Docs, una herramienta clave y colaborativa en el entorno laboral actual. No se busca solo el aprendizaje instrumental del procesador de textos, sino su aplicación práctica para el desarrollo profesional.</p>\n<p style=\"text-align: justify;\">Al finalizar, el alumno será capaz de maquetar y redactar un informe técnico completo, cumpliendo con los estándares de calidad del sector. El documento final deberá integrar de forma autónoma la siguiente estructura formal: Portada, Índice, Introducción, Desarrollo y Conclusiones.</p>\n<p style=\"text-align: justify;\">Aparte de esta herramienta, les voy a pedir el uso de dos herramientas más. En el proyecto los alumnos tendrán que ir generando simulaciones cada vez más complejas, cada nueva simulación depende de la anterior y creo que es una buena opción que generen una infografía que resuma todo el proceso de un vistazo y un videotutorial sobre el empleo de la herramienta de simulación. Emplearán Genially para incluir una infografía en el documento en la que expliquen cuáles han sido los pasos que han ido dando y muestren las fórmulas que han empleado en cada paso. Y, por último, Screencast-o-matic para que realicen un pequeño tutorial de uno de los modelos implementados en el simulador de circuitos electrónicos.</p>\n<p style=\"text-align: justify;\">Aprovechando que los alumnos cuentan con portátiles facilitados por el centro (a través del programa de préstamo de la Junta de Andalucía), considero fundamental que le den un uso profesional. No queremos que usen el ordenador solo para buscar información, sino como una herramienta de trabajo real.<br /></p>\n<p style=\"text-align: justify;\">Las herramientas digitales seleccionadas (Google Docs, Genially y ScreenPal (Screencast-o-Matic) cumplen los criterios de accesibilidad, gratuidad y usabilidad. No requieren instalaciones complejas ni conllevan costes para el alumnado. Su interfaz intuitiva garantiza una curva de aprendizaje rápida, perfectamente asumible para el nivel de FP de Grado Medio. Esto permite que el foco de las sesiones se centre en la adquisición de la competencia profesional y la calidad del contenido, y no en la complejidad técnica del software.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779818085245-97xokdk3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779818085245-97xokdk3f</odePageId>
+      <odeBlockId>block-1779819195548-wvn0j5alu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779818085245-97xokdk3f</odePageId>
+          <odeBlockId>block-1779819195548-wvn0j5alu</odeBlockId>
+          <odeIdeviceId>idevice-1779819195546-ot8o3983n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este apartado se muestran dos herramientas en las que se realizan diferentes curaciones de contenidos:<br title="" /><a href="herramientas-de-clase-para-los-alumnos.html">Herramientas de clase para los alumnos.</a> Recoge las herramientas, tutoriales, vídeos o recursos que necesitará el alumnado para hacer el proyecto. <br /><a href="herramientas-para-el-dia-a-dia-del-docente.html">Herramientas para el día a día del docente.</a> Recoge las herramientas, app, tutoriales, que el docente utiliza en el día a día en la gestión de tu aula. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779819195546-ot8o3983n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este apartado se muestran dos herramientas en las que se realizan diferentes curaciones de contenidos:<br title=\"\" /><a href=\"exe-node:page-1779818098017-sr97r8oex\">Herramientas de clase para los alumnos.</a> Recoge las herramientas, tutoriales, vídeos o recursos que necesitará el alumnado para hacer el proyecto. <br /><a href=\"exe-node:page-1779818111384-fs780o3ty\">Herramientas para el día a día del docente.</a> Recoge las herramientas, app, tutoriales, que el docente utiliza en el día a día en la gestión de tu aula. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779818098017-sr97r8oex</odePageId>
+  <odeParentPageId>page-1779818085245-97xokdk3f</odeParentPageId>
+  <pageName>Herramientas de clase para los alumnos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de clase para los alumnos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas de clase para los alumnos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779818098017-sr97r8oex</odePageId>
+      <odeBlockId>block-1779818236652-c9lkc3wxr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779818098017-sr97r8oex</odePageId>
+          <odeBlockId>block-1779818236652-c9lkc3wxr</odeBlockId>
+          <odeIdeviceId>idevice-1779818236651-uyzt09wr9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0px; margin: 0px; text-align: center;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ovgau7yxcqufwqei" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779818236651-uyzt09wr9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0px; margin: 0px; text-align: center;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ovgau7yxcqufwqei\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779818111384-fs780o3ty</odePageId>
+  <odeParentPageId>page-1779818085245-97xokdk3f</odeParentPageId>
+  <pageName>Herramientas para el día a día del docente</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para el día a día del docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas para el día a día del docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779818111384-fs780o3ty</odePageId>
+      <odeBlockId>block-1779818984622-37liv92c0</odeBlockId>
+      <blockName>Accede a la web de Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779818111384-fs780o3ty</odePageId>
+          <odeBlockId>block-1779818984622-37liv92c0</odeBlockId>
+          <odeIdeviceId>idevice-1779818984620-awbe7ob2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="https://antuanreyes.symbaloo.com/home/mix/13eOcXOedD" title="Clic" target="_blank" rel="noopener">Herramientas para el día a día del docente</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/symbaloo.png" width="1117" height="573" alt="Imagen de la web symbaloo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779818984620-awbe7ob2w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://antuanreyes.symbaloo.com/home/mix/13eOcXOedD\" title=\"Clic\" target=\"_blank\" rel=\"noopener\">Herramientas para el día a día del docente</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/symbaloo.png\" width=\"1117\" height=\"573\" alt=\"Imagen de la web symbaloo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779818111384-fs780o3ty</odePageId>
+      <odeBlockId>block-1779818829741-zfsbbc89t</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779818111384-fs780o3ty</odePageId>
+          <odeBlockId>block-1779818829741-zfsbbc89t</odeBlockId>
+          <odeIdeviceId>idevice-1779818829740-koh5w7g5z</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://antuanreyes.symbaloo.com/home/mix/13eOcXOedD" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779819609348-hvajnisdu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades del proyecto</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779819609348-hvajnisdu</odePageId>
+      <odeBlockId>block-1779819768555-qad41et2p</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779819609348-hvajnisdu</odePageId>
+          <odeBlockId>block-1779819768555-qad41et2p</odeBlockId>
+          <odeIdeviceId>idevice-1779819768553-lg73i1ff3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="https://www.tiki-toki.com/timeline/entry/2247236/La-Corriente-Alterna/" target="_blank" rel="noopener" title="">Clic aquí para ver la línea temporal</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/lineaTemporal.png" width="1272" height="652" alt="Imagen la de línea temporal del proyecto" /></p>
+<p style="text-align: justify;">Pulsando en <a href="criterios-de-evaluacion-asociados-a-las-tareas.html" title="">este enlace</a> encontrarás los criterios de evaluación asociados a las diferentes tareas del proyecto.</p>
+<p>El <a href="instrumentos-de-evaluacion.html" title="">siguiente enlace</a> nos dirige a una muestra de los instrumentos de evaluación que se emplearán para la evaluación del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779819768553-lg73i1ff3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://www.tiki-toki.com/timeline/entry/2247236/La-Corriente-Alterna/\" target=\"_blank\" rel=\"noopener\" title=\"\">Clic aquí para ver la línea temporal</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/lineaTemporal.png\" width=\"1272\" height=\"652\" alt=\"Imagen la de línea temporal del proyecto\" /></p>\n<p style=\"text-align: justify;\">Pulsando en <a href=\"exe-node:page-1779820339704-epvp3mvnl\" title=\"\">este enlace</a> encontrarás los criterios de evaluación asociados a las diferentes tareas del proyecto.</p>\n<p>El <a href=\"exe-node:page-1779823069871-tgrqzntb6\" title=\"\">siguiente enlace</a> nos dirige a una muestra de los instrumentos de evaluación que se emplearán para la evaluación del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779820339704-epvp3mvnl</odePageId>
+  <odeParentPageId>page-1779819609348-hvajnisdu</odeParentPageId>
+  <pageName>Criterios de evaluación asociados a las tareas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779820339704-epvp3mvnl</odePageId>
+      <odeBlockId>block-1779820847572-x456rikat</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779820339704-epvp3mvnl</odePageId>
+          <odeBlockId>block-1779820847572-x456rikat</odeBlockId>
+          <odeIdeviceId>idevice-1779820847571-dcqocvz8w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="2" style="width: 100%; border-color: #236fa1; border-style: solid; height: 1312px;">
+<tbody>
+<tr style="height: 34px;">
+<td style="width: 21.5023%; text-align: center; height: 34px; border: 2px solid #236fa1;"><strong>TAREA</strong><br /></td>
+<td style="width: 78.4404%; text-align: center; height: 34px; border: 2px solid #236fa1;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+</tr>
+<tr style="height: 202px;">
+<td style="width: 21.5023%; height: 202px; border: 2px solid #236fa1;">Tarea Inicial</td>
+<td style="width: 78.4404%; height: 202px; border: 2px solid #236fa1;">
+<p>RA3. a) Se han identificado las características de una señal alterna. </p>
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p>RA3 e) Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+</tr>
+<tr style="height: 138px;">
+<td style="width: 21.5023%; height: 138px; border: 2px solid #236fa1;">Tarea 1</td>
+<td style="width: 78.4404%; height: 138px; border: 2px solid #236fa1;">
+<p>RA3. a) Se han identificado las características de una señal alterna. </p>
+<p>RA3. d) Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>
+</td>
+</tr>
+<tr style="height: 162px;">
+<td style="width: 21.5023%; height: 162px; border: 2px solid #236fa1;">Tarea 2</td>
+<td style="width: 78.4404%; height: 162px; border: 2px solid #236fa1;">
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p>RA3. d) Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>
+</td>
+</tr>
+<tr style="height: 162px;">
+<td style="width: 21.5023%; height: 162px; border: 2px solid #236fa1;">Tarea 3</td>
+<td style="width: 78.4404%; height: 162px; border: 2px solid #236fa1;">
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p>RA3. e) Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+</tr>
+<tr style="height: 162px;">
+<td style="width: 21.5023%; height: 162px; border: 2px solid #236fa1;">Tarea 4</td>
+<td style="width: 78.4404%; height: 162px; border: 2px solid #236fa1;">
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica.</p>
+<p>RA3. f) Se ha descrito el concepto de resonancia y sus aplicaciones. </p>
+</td>
+</tr>
+<tr style="height: 226px;">
+<td style="width: 21.5023%; height: 226px; border: 2px solid #236fa1;">Tarea 5</td>
+<td style="width: 78.4404%; height: 226px; border: 2px solid #236fa1;">
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p>RA4. c) Se han identificado los componentes, asociándolos con sus símbolos. </p>
+<p>RA4. d) Se han montado o simulado circuitos analógicos básicos. </p>
+</td>
+</tr>
+<tr style="height: 226px;">
+<td style="width: 21.5023%; height: 226px; border: 2px solid #236fa1;">Tarea Final</td>
+<td style="width: 78.4404%; height: 226px; border: 2px solid #236fa1;">
+<p>RA3. a) Se han identificado las características de una señal alterna. </p>
+<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>
+<p>RA3 e) Se ha identificado la manera de corregir el factor de potencia. </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779820847571-dcqocvz8w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"2\" style=\"width: 100%; border-color: #236fa1; border-style: solid; height: 1312px;\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 21.5023%; text-align: center; height: 34px; border: 2px solid #236fa1;\"><strong>TAREA</strong><br /></td>\n<td style=\"width: 78.4404%; text-align: center; height: 34px; border: 2px solid #236fa1;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n</tr>\n<tr style=\"height: 202px;\">\n<td style=\"width: 21.5023%; height: 202px; border: 2px solid #236fa1;\">Tarea Inicial</td>\n<td style=\"width: 78.4404%; height: 202px; border: 2px solid #236fa1;\">\n<p>RA3. a) Se han identificado las características de una señal alterna. </p>\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p>RA3 e) Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n</tr>\n<tr style=\"height: 138px;\">\n<td style=\"width: 21.5023%; height: 138px; border: 2px solid #236fa1;\">Tarea 1</td>\n<td style=\"width: 78.4404%; height: 138px; border: 2px solid #236fa1;\">\n<p>RA3. a) Se han identificado las características de una señal alterna. </p>\n<p>RA3. d) Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>\n</td>\n</tr>\n<tr style=\"height: 162px;\">\n<td style=\"width: 21.5023%; height: 162px; border: 2px solid #236fa1;\">Tarea 2</td>\n<td style=\"width: 78.4404%; height: 162px; border: 2px solid #236fa1;\">\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p>RA3. d) Se han realizado medidas de tensión, intensidad, potencia y factor de potencia. </p>\n</td>\n</tr>\n<tr style=\"height: 162px;\">\n<td style=\"width: 21.5023%; height: 162px; border: 2px solid #236fa1;\">Tarea 3</td>\n<td style=\"width: 78.4404%; height: 162px; border: 2px solid #236fa1;\">\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p>RA3. e) Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n</tr>\n<tr style=\"height: 162px;\">\n<td style=\"width: 21.5023%; height: 162px; border: 2px solid #236fa1;\">Tarea 4</td>\n<td style=\"width: 78.4404%; height: 162px; border: 2px solid #236fa1;\">\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica.</p>\n<p>RA3. f) Se ha descrito el concepto de resonancia y sus aplicaciones. </p>\n</td>\n</tr>\n<tr style=\"height: 226px;\">\n<td style=\"width: 21.5023%; height: 226px; border: 2px solid #236fa1;\">Tarea 5</td>\n<td style=\"width: 78.4404%; height: 226px; border: 2px solid #236fa1;\">\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p>RA4. c) Se han identificado los componentes, asociándolos con sus símbolos. </p>\n<p>RA4. d) Se han montado o simulado circuitos analógicos básicos. </p>\n</td>\n</tr>\n<tr style=\"height: 226px;\">\n<td style=\"width: 21.5023%; height: 226px; border: 2px solid #236fa1;\">Tarea Final</td>\n<td style=\"width: 78.4404%; height: 226px; border: 2px solid #236fa1;\">\n<p>RA3. a) Se han identificado las características de una señal alterna. </p>\n<p>RA3. c) Se han realizado cálculos de tensión, intensidad, potencia y factor de potencia en circuitos de corriente alterna monofásica. </p>\n<p>RA3 e) Se ha identificado la manera de corregir el factor de potencia. </p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779823069871-tgrqzntb6</odePageId>
+  <odeParentPageId>page-1779819609348-hvajnisdu</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779823069871-tgrqzntb6</odePageId>
+      <odeBlockId>block-1779823409115-oeg3hzdtw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779823069871-tgrqzntb6</odePageId>
+          <odeBlockId>block-1779823409115-oeg3hzdtw</odeBlockId>
+          <odeIdeviceId>idevice-1779823409114-8jsf5hyfy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Inicialmente emplearé dos técnicas de evaluación diferentes, la observación sistemática y el análisis de los productos del alumnado. En la primera técnica emplearé el instrumento de evaluación llamado registro anecdótico. Y en la segunda usaré Rúbricas, una para cada una de las 5 actividades y 1 última para la entrega final.</p>
+<p style="text-align: justify;">El registro Anecdótico será una especie de diario en el que iremos recogiendo información significativa y anotaciones que luego pueden servirnos en la evaluación. Este diario contendrá los siguientes campos para cada registro:</p>
+<ul>
+<li>Fecha</li>
+<li>Actividad</li>
+<li>Nombre de alumno o alumnos</li>
+<li>Descripción de lo observado</li>
+<li>Interpretación</li>
+</ul>
+<p style="text-align: justify;">Con el fin de introducir una retroalimentación constante y continua que ayude al alumnado a mejorar o a encontrar nuevas soluciones, realizaré intercambios orales, de esta forma trataré de conseguir profundizar en el porqué de cuestiones que sería imposible obtener de otra manera o con otras técnicas. Para mi esta técnica es fundamental y complementaria a las rúbricas. Trataré de que el alumnado no sienta que está siendo evaluado, evaluaré sus intervenciones, preguntaré el porqué de algunas cuestiones o me interesaré en cómo están realizando una tarea… Espero controlar el nivel consecución general de la clase, el nivel de adquisición de conocimientos de los alumnos y tratar de mantener que ciertos alumnos se descuelguen. Los alumnos más adelantados trataré que ayuden a los menos. Si encuentro algún problema general del aula en el que la mayoría no consigan avanzar pararé la sesión y dedicaré tiempo a solucionar dicho problema.</p>
+<p style="text-align: justify;">Sobre las Rúbricas mediré el grado de alcance de los apartados en los que se divide cada actividad propuesta. Se añadirán aquellos aspectos que queremos que el alumnado tenga en cuenta a la hora de realizar la tarea encomendada y graduaremos su consecución.</p>
+<p style="text-align: justify;">Con las rúbricas trataré de evaluar las diferentes capacidades de los alumnos para generar o producir su propio trabajo y evaluaré el nivel de adquisición de los contenidos. En el caso de que encuentre problemas para la realización de las entregas dedicaré tiempo en clase para que los alumnos mejoren cómo usan las herramientas empleadas en el proyecto. En el caso de que encuentre problemas sobre la adquisición de los contenidos me centraré en la siguiente sesión a realizar el registro anecdótico más centrado en dichos contenidos. A continuación, muestro un ejemplo de cómo sería la rúbrica de la primera actividad.</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;"><strong>Criterio / Apartado</strong></td>
+<td style="width: 2px; border: 2px solid #236fa1;">
+<p><strong>No lo realiza (1 pt)</strong></p>
+</td>
+<td style="width: 2px; border: 2px solid #236fa1;">
+<p><strong>Lo realiza / Muestra evidencias (2 pts)</strong></p>
+</td>
+<td style="width: 2px; border: 2px solid #236fa1;">
+<p><strong>Lo realiza sin errores (3 pts)</strong><br /></p>
+</td>
+<td style="width: 2px; border: 2px solid #236fa1;">
+<p><strong>Lo realiza sin errores y aporta info adicional (4 pts)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;">1. Amperímetro y Voltímetro (Uso de la instrumentación)<br /><br /></td>
+<td style="width: 2px; border: 2px solid #236fa1;">No conecta los aparatos o los valores mostrados son incorrectos.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Conecta los aparatos de medida y obtiene lecturas, pero comete fallos leves en las unidades o en el conexionado.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Conecta correctamente el amperímetro (serie) y voltímetro (paralelo) mostrando los valores eficaces reales del modelo.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Cumple lo anterior y, además, justifica la colocación de los aparatos o analiza el efecto de la resistencia interna de los mismos.</td>
+</tr>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;">2. Comprobación Matemática (Cálculos de Vef​ e Ief​)<br /></td>
+<td style="width: 2px; border: 2px solid #236fa1;">No realiza los cálculos o los resultados no coinciden en absoluto con el modelo.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Realiza los cálculos de la intensidad y el voltaje, pero hay errores matemáticos menores o falta de unidades.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Calcula con total exactitud Vef​ e Ief​ aplicando la Ley de Ohm en alterna, coincidiendo con el modelo de simulación.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Cumple lo anterior y añade el cálculo de los valores máximos o de pico (V0​,I0​) demostrando la relación matemática con el valor eficaz:Vef​=2​V0​​</td>
+</tr>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;">3. Uso del Osciloscopio (Escalas, periodo y parámetros)</td>
+<td style="width: 2px; border: 2px solid #236fa1;">No muestra la señal de la fuente o no sabe manipular los controles de escala ni cursores.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Muestra la señal y usa los cursores, pero la explicación de las escalas (amplitud/tiempo) es confusa o incompleta.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Visualiza la señal nítidamente ajustando escalas, explica correctamente el uso de los botones, mide el periodo con cursores y calcula matemáticamente la frecuencia (f=1/T) y la pulsación (ω).</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Cumple lo anterior a la perfección y aporta información adicional.</td>
+</tr>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;">4. Triángulo de Potencias (Representación gráfica)</td>
+<td style="width: 2px; border: 2px solid #236fa1;">No dibuja el triángulo o los valores de potencia son erróneos.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Dibuja el triángulo, pero confunde los ejes, las unidades o calcula mal alguna de las potencias (P, Q o S).</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Dibuja el triángulo de potencias correctamente.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Cumple lo anterior y añade una explicación analítica de por qué el factor de potencia (cosφ) es igual a 1 y qué implicación tiene esto en la red eléctrica.</td>
+</tr>
+<tr>
+<td style="width: 2px; border: 2px solid #236fa1;">5. Vídeo Explicativo (Síntesis y comunicación en &lt; 2 min)</td>
+<td style="width: 2px; border: 2px solid #236fa1;">No entrega el vídeo o este supera ampliamente el tiempo sin explicar los contenidos mínimos.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Entrega el vídeo explicando el modelo y los cálculos, pero excede el tiempo límite o la explicación es atropellada y poco clara.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Explica con claridad el modelo montado y los cálculos realizados de forma fluida, dinámica y ajustándose estrictamente al límite de 2 minutos.</td>
+<td style="width: 2px; border: 2px solid #236fa1;">Cumple lo anterior con excelente calidad de edición/audio y aporta información adicional.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779823409114-8jsf5hyfy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Inicialmente emplearé dos técnicas de evaluación diferentes, la observación sistemática y el análisis de los productos del alumnado. En la primera técnica emplearé el instrumento de evaluación llamado registro anecdótico. Y en la segunda usaré Rúbricas, una para cada una de las 5 actividades y 1 última para la entrega final.</p>\n<p style=\"text-align: justify;\">El registro Anecdótico será una especie de diario en el que iremos recogiendo información significativa y anotaciones que luego pueden servirnos en la evaluación. Este diario contendrá los siguientes campos para cada registro:</p>\n<ul>\n<li>Fecha</li>\n<li>Actividad</li>\n<li>Nombre de alumno o alumnos</li>\n<li>Descripción de lo observado</li>\n<li>Interpretación</li>\n</ul>\n<p style=\"text-align: justify;\">Con el fin de introducir una retroalimentación constante y continua que ayude al alumnado a mejorar o a encontrar nuevas soluciones, realizaré intercambios orales, de esta forma trataré de conseguir profundizar en el porqué de cuestiones que sería imposible obtener de otra manera o con otras técnicas. Para mi esta técnica es fundamental y complementaria a las rúbricas. Trataré de que el alumnado no sienta que está siendo evaluado, evaluaré sus intervenciones, preguntaré el porqué de algunas cuestiones o me interesaré en cómo están realizando una tarea… Espero controlar el nivel consecución general de la clase, el nivel de adquisición de conocimientos de los alumnos y tratar de mantener que ciertos alumnos se descuelguen. Los alumnos más adelantados trataré que ayuden a los menos. Si encuentro algún problema general del aula en el que la mayoría no consigan avanzar pararé la sesión y dedicaré tiempo a solucionar dicho problema.</p>\n<p style=\"text-align: justify;\">Sobre las Rúbricas mediré el grado de alcance de los apartados en los que se divide cada actividad propuesta. Se añadirán aquellos aspectos que queremos que el alumnado tenga en cuenta a la hora de realizar la tarea encomendada y graduaremos su consecución.</p>\n<p style=\"text-align: justify;\">Con las rúbricas trataré de evaluar las diferentes capacidades de los alumnos para generar o producir su propio trabajo y evaluaré el nivel de adquisición de los contenidos. En el caso de que encuentre problemas para la realización de las entregas dedicaré tiempo en clase para que los alumnos mejoren cómo usan las herramientas empleadas en el proyecto. En el caso de que encuentre problemas sobre la adquisición de los contenidos me centraré en la siguiente sesión a realizar el registro anecdótico más centrado en dichos contenidos. A continuación, muestro un ejemplo de cómo sería la rúbrica de la primera actividad.</p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\"><strong>Criterio / Apartado</strong></td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">\n<p><strong>No lo realiza (1 pt)</strong></p>\n</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">\n<p><strong>Lo realiza / Muestra evidencias (2 pts)</strong></p>\n</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">\n<p><strong>Lo realiza sin errores (3 pts)</strong><br /></p>\n</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">\n<p><strong>Lo realiza sin errores y aporta info adicional (4 pts)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">1. Amperímetro y Voltímetro (Uso de la instrumentación)<br /><br /></td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">No conecta los aparatos o los valores mostrados son incorrectos.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Conecta los aparatos de medida y obtiene lecturas, pero comete fallos leves en las unidades o en el conexionado.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Conecta correctamente el amperímetro (serie) y voltímetro (paralelo) mostrando los valores eficaces reales del modelo.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Cumple lo anterior y, además, justifica la colocación de los aparatos o analiza el efecto de la resistencia interna de los mismos.</td>\n</tr>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">2. Comprobación Matemática (Cálculos de Vef​ e Ief​)<br /></td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">No realiza los cálculos o los resultados no coinciden en absoluto con el modelo.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Realiza los cálculos de la intensidad y el voltaje, pero hay errores matemáticos menores o falta de unidades.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Calcula con total exactitud Vef​ e Ief​ aplicando la Ley de Ohm en alterna, coincidiendo con el modelo de simulación.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Cumple lo anterior y añade el cálculo de los valores máximos o de pico (V0​,I0​) demostrando la relación matemática con el valor eficaz:Vef​=2​V0​​</td>\n</tr>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">3. Uso del Osciloscopio (Escalas, periodo y parámetros)</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">No muestra la señal de la fuente o no sabe manipular los controles de escala ni cursores.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Muestra la señal y usa los cursores, pero la explicación de las escalas (amplitud/tiempo) es confusa o incompleta.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Visualiza la señal nítidamente ajustando escalas, explica correctamente el uso de los botones, mide el periodo con cursores y calcula matemáticamente la frecuencia (f=1/T) y la pulsación (ω).</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Cumple lo anterior a la perfección y aporta información adicional.</td>\n</tr>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">4. Triángulo de Potencias (Representación gráfica)</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">No dibuja el triángulo o los valores de potencia son erróneos.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Dibuja el triángulo, pero confunde los ejes, las unidades o calcula mal alguna de las potencias (P, Q o S).</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Dibuja el triángulo de potencias correctamente.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Cumple lo anterior y añade una explicación analítica de por qué el factor de potencia (cosφ) es igual a 1 y qué implicación tiene esto en la red eléctrica.</td>\n</tr>\n<tr>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">5. Vídeo Explicativo (Síntesis y comunicación en &lt; 2 min)</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">No entrega el vídeo o este supera ampliamente el tiempo sin explicar los contenidos mínimos.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Entrega el vídeo explicando el modelo y los cálculos, pero excede el tiempo límite o la explicación es atropellada y poco clara.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Explica con claridad el modelo montado y los cálculos realizados de forma fluida, dinámica y ajustándose estrictamente al límite de 2 minutos.</td>\n<td style=\"width: 2px; border: 2px solid #236fa1;\">Cumple lo anterior con excelente calidad de edición/audio y aporta información adicional.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779820535400-eaqahdkrs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779820535400-eaqahdkrs</odePageId>
+      <odeBlockId>block-1779820621287-xgswolohg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779820535400-eaqahdkrs</odePageId>
+          <odeBlockId>block-1779820621287-xgswolohg</odeBlockId>
+          <odeIdeviceId>idevice-1779820621285-gp6vhchus</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fbfbfb;">
+<h2 style="color: #0056b3; border-bottom: 2px solid #0056b3; padding-bottom: 8px; margin-top: 0;">Créditos del Proyecto</h2>
+<h3 style="color: #2c3e50; margin-top: 20px;">👤 Autoría y Propiedad Intelectual</h3>
+<p style="margin: 5px 0;"><strong>Autor:</strong> Antonio Reyes Gutiérrez</p>
+<p style="margin: 5px 0;"><strong>Año de creación:</strong> 2026</p>
+<p style="margin: 5px 0;"><strong>Proyecto:</strong> La Corriente Alterna. Conociendo las potencias.</p>
+<h3 style="color: #2c3e50; margin-top: 24px;">📝 Descripción del Recurso</h3>
+<p style="text-align: justify; margin: 5px 0;">Esta actividad está diseñada específicamente para el alumnado de primer curso del Ciclo Formativo de Grado Medio correspondiente al título de Técnico en Instalaciones de Telecomunicaciones. Al encontrarse en el primer año de su formación, los estudiantes están asentando las bases de la electricidad y la electrónica, por lo que esta práctica resulta idónea para consolidar conceptos abstractos que verán aplicados a lo largo de todo el ciclo.</p>
+<h3 style="color: #2c3e50; margin-top: 24px;">⚖️ Licencia de uso</h3>
+<div style="display: flex; align-items: center; background-color: #fff; padding: 15px; border: 1px solid #dcdcdc; border-radius: 6px; margin-top: 10px;">
+<div style="margin-right: 20px; min-width: 120px;"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" target="_blank" rel="noopener"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="Licencia Creative Commons BY-NC-SA" style="width: 120px; height: auto;" /> </a></div>
+<div>
+<p style="margin: 0; font-size: 14px; text-align: justify;">Este recurso educativo abierto se publica bajo la licencia <strong>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>. Usted es libre de compartir y adaptar el material siempre que reconozca la autoría de <em>Antonio Reyes Gutiérrez</em>, no lo utilice con fines comerciales y mantenga esta misma licencia para las obras derivadas.</p>
+</div>
+</div>
+<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;" />
+<h3 style="color: #2c3e50; text-align: center;">📥 Descarga del archivo fuente</h3>
+<p style="text-align: center; color: #666; font-size: 14px; margin-bottom: 15px;">Si eres docente y deseas modificar, adaptar o mejorar este recurso en eXeLearning, puedes descargar el archivo editable (.elp) pulsando el siguiente botón:</p>
+<div style="text-align: center; margin-bottom: 10px;"><a href="proyecto_arg.elpx" download="" style="background-color: #007bff; color: white; padding: 12px 28px; text-decoration: none; font-weight: bold; border-radius: 5px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" title=""> 📥 Descargar archivo fuente (.elp) </a></div>
+<p style="text-align: center; font-size: 11px; color: #999;">Nombre del archivo: <em>proyecto_arg.elp</em></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779820621285-gp6vhchus","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fbfbfb;\">\n<h2 style=\"color: #0056b3; border-bottom: 2px solid #0056b3; padding-bottom: 8px; margin-top: 0;\">Créditos del Proyecto</h2>\n<h3 style=\"color: #2c3e50; margin-top: 20px;\">👤 Autoría y Propiedad Intelectual</h3>\n<p style=\"margin: 5px 0;\"><strong>Autor:</strong> Antonio Reyes Gutiérrez</p>\n<p style=\"margin: 5px 0;\"><strong>Año de creación:</strong> 2026</p>\n<p style=\"margin: 5px 0;\"><strong>Proyecto:</strong> La Corriente Alterna. Conociendo las potencias.</p>\n<h3 style=\"color: #2c3e50; margin-top: 24px;\">📝 Descripción del Recurso</h3>\n<p style=\"text-align: justify; margin: 5px 0;\">Esta actividad está diseñada específicamente para el alumnado de primer curso del Ciclo Formativo de Grado Medio correspondiente al título de Técnico en Instalaciones de Telecomunicaciones. Al encontrarse en el primer año de su formación, los estudiantes están asentando las bases de la electricidad y la electrónica, por lo que esta práctica resulta idónea para consolidar conceptos abstractos que verán aplicados a lo largo de todo el ciclo.</p>\n<h3 style=\"color: #2c3e50; margin-top: 24px;\">⚖️ Licencia de uso</h3>\n<div style=\"display: flex; align-items: center; background-color: #fff; padding: 15px; border: 1px solid #dcdcdc; border-radius: 6px; margin-top: 10px;\">\n<div style=\"margin-right: 20px; min-width: 120px;\"><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es\" target=\"_blank\" rel=\"noopener\"> <img src=\"https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg\" alt=\"Licencia Creative Commons BY-NC-SA\" style=\"width: 120px; height: auto;\" /> </a></div>\n<div>\n<p style=\"margin: 0; font-size: 14px; text-align: justify;\">Este recurso educativo abierto se publica bajo la licencia <strong>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>. Usted es libre de compartir y adaptar el material siempre que reconozca la autoría de <em>Antonio Reyes Gutiérrez</em>, no lo utilice con fines comerciales y mantenga esta misma licencia para las obras derivadas.</p>\n</div>\n</div>\n<hr style=\"border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;\" />\n<h3 style=\"color: #2c3e50; text-align: center;\">📥 Descarga del archivo fuente</h3>\n<p style=\"text-align: center; color: #666; font-size: 14px; margin-bottom: 15px;\">Si eres docente y deseas modificar, adaptar o mejorar este recurso en eXeLearning, puedes descargar el archivo editable (.elp) pulsando el siguiente botón:</p>\n<div style=\"text-align: center; margin-bottom: 10px;\"><a href=\"proyecto_arg.elpx\" download=\"\" style=\"background-color: #007bff; color: white; padding: 12px 28px; text-decoration: none; font-weight: bold; border-radius: 5px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;\" title=\"\"> 📥 Descargar archivo fuente (.elp) </a></div>\n<p style=\"text-align: center; font-size: 11px; color: #999;\">Nombre del archivo: <em>proyecto_arg.elp</em></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
